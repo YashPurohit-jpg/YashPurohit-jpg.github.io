@@ -1,0 +1,11 @@
+{
+  "name": "photography-final",
+  "version": "1.0.0",
+  "description": "Photography Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Purohit",
+  "license": "ISC"
+}
